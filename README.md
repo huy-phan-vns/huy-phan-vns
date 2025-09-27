@@ -59,7 +59,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
 
 ## GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=phanbaohuy96&show_icons=true&include_all_commits=true&count_private=true&orgs=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=huy-phan-vns&show_icons=true&include_all_commits=true&count_private=true&orgs=true)
 
 
 ## Connect sociales
