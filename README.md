@@ -7,10 +7,11 @@
 [![Github](https://img.shields.io/github/watchers/huy-phan-vns/huy-phan-vns?style=social)](https://github.com/huy-phan-vns/huy-phan-vns)
 [![Github](https://img.shields.io/github/last-commit/huy-phan-vns/huy-phan-vns)](https://github.com/huy-phan-vns/huy-phan-vns/huy-phan-vns)
 
-
 ## Skills
 
 **Cross-Platform Mobile Development**: Proficient in building seamless mobile experiences using Flutter, allowing for simultaneous deployment on both iOS and Android platforms.
+
+**Flutter Web Development**: Experienced in extending Flutter applications to the web platform, creating responsive and performant web applications with shared codebases across mobile and web.
 
 **Native Android App Development**: Skilled in crafting high-performance Android apps using Kotlin, leveraging the language's concise syntax and modern features.
 
@@ -39,11 +40,39 @@
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flutter.dev/web)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
+**DevOps & Infrastructure**
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker--Compose-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
+[![K8s ConfigMap](https://img.shields.io/badge/K8s%20ConfigMap-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/concepts/configuration/configmap/)
 
 **Others**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitHub CI/CD](https://img.shields.io/badge/GitHub%20CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
+
+## GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=phanbaohuy96&show_icons=true&include_all_commits=true&count_private=true&orgs=true)
+
+
+## Connect sociales
+
+<a href="https://www.linkedin.com/in/huy-b%E1%BA%A3o-b072131b6/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/phanbaohuy96/">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="https://t.me/pbh96">
+  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
+</a>
+<a href="mailto:baohuy.phan1996@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
